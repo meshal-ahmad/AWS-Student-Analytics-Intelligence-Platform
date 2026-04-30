@@ -31,6 +31,7 @@ Built on Amazon Web Services using S3, Athena, and QuickSight — from raw CSV t
 ## 🏗️ Architecture
 
 
+<img width="1490" height="812" alt="image" src="https://github.com/user-attachments/assets/f47022d9-cd44-4647-b62a-7c6e4bf65a1a" />
 
 
 
