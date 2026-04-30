@@ -30,7 +30,8 @@ Built on Amazon Web Services using S3, Athena, and QuickSight — from raw CSV t
 ## High-Level System Architecture
 
 This diagram illustrates the automated data pipeline, showcasing the journey of academic data from raw ingestion to AI-powered insights
-![Uploading WhatsApp Image 2026-04-30 at 10.10.08 PM.jpeg…]()
+![Uploading image.png…]()
+
 
 
 ---
