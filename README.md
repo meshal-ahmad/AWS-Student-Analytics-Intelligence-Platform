@@ -30,6 +30,29 @@ Built on Amazon Web Services using S3, Athena, and QuickSight — from raw CSV t
 
 ## 🏗️ Architecture
 
+
+
+
+
+### Problem Description (S3 Manifest Error)
+
+The image shows an error encountered while connecting a data source in Amazon QuickSight using a manifest file from Amazon S3. The system was unable to parse the manifest file as valid JSON.
+
+**Cause of the Issue:**
+The manifest file contained invalid JSON formatting or an incorrect file path in S3.
+
+**Solution:**
+
+* Ensure the manifest file is written in valid JSON format
+* Verify that the S3 file path is correct
+* Check for common issues such as trailing commas or incorrect structure
+* Re-upload the corrected manifest file
+
+**Result:**
+The issue was resolved successfully, and the dataset was connected to QuickSight without errors.
+
+
+
 ```
 [CSV Dataset — Student Enrollment Data]
          │
