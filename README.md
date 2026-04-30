@@ -27,14 +27,11 @@ Built on Amazon Web Services using S3, Athena, and QuickSight — from raw CSV t
 | Business scenario prompt | QuickSight Scenarios (Data to Insights) | AI-generated analysis with suggested follow-up questions |
 
 ---
-## 🏗️ Architecture & Data Flow
+## High-Level System Architecture
 
-**The blueprint of the AWS Student Intelligence Platform, detailing the end-to-end integration from S3 storage to Amazon Q Generative AI.**
+This diagram illustrates the automated data pipeline, showcasing the journey of academic data from raw ingestion to AI-powered insights
+![Uploading WhatsApp Image 2026-04-30 at 10.10.08 PM.jpeg…]()
 
-<p align="center">
-  <img src="<img width="1408" height="768" alt="WhatsApp Image 2026-04-30 at 10 10 08 PM" src="https://github.com/user-attachments/assets/e89694e9-cd4d-45fb-90c1-8b4166b7c400" />
-" width="1000" alt="AWS Data Pipeline Architecture">
-</p>
 
 ---
 
