@@ -12,7 +12,7 @@
 Built on Amazon Web Services using S3, Athena, and QuickSight — from raw CSV to interactive BI dashboards with natural language Q&A.
 
 [![LinkedIn](https://img.shields.io/badge/Meshal%20Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meshal-ahmed-4a84242b5)
-[![GitHub](https://img.shields.io/badge/2027--2003-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/2027-2003)
+[![GitHub](https://img.shields.io/badge/meshal-ahmad-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/meshal-ahmad)
 
 </div>
 
